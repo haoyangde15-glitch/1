@@ -1,0 +1,13 @@
+{
+  "name": "the-veil-horror-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "THE VEIL public horror archive website with no-login WebSocket chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
